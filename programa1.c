@@ -1,3 +1,6 @@
+/*Fernanda Arely Moreno De León
+Ejercicio 1 */
+
 #include<stdio.h>
 int main ()
 {
