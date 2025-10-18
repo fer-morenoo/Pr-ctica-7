@@ -1,5 +1,5 @@
 /*Fernanda Arely Moreno De León
-Ejercicio 3 */
+Ejercicio 6 */
 
 #include <stdio.h>
 int main()
